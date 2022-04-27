@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Joe Redmond
 #tagline:          ''
-description:      'ML Engineer'
+description:      'Machine Learning Engineer'
 url:              https://joearedmond.github.io/
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"

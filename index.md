@@ -3,12 +3,28 @@ layout: index
 title: Home
 ---
 
-# ML is good when it is useful.
+# Hi! My name is Joe.
 
-I am a graduating Masters student in Computer Science at Columbia University studying machine learning and systems programming. Integrating machine learning into production applications gets me going. A model in a Juptyer Notebook isn't going to serve itself!
+<div class="col-xs-12">
+    <img 
+        src="assets/images/joe_outdoors3.png"
+        alt="Joe Redmond image"
+        style="width: 50%; float: right; margin: 0 0 10px 15px;" 
+    />
+</div>
 
-I am also a Data Scientist at Memorial Sloan Kettering Cancer Center, a top cancer hospital, where I do "full stack" machine learning, from exploratory data analysis to modelling to system integration. My current project involves integrating a random forest model into the Electronic Medical Record system in near-real-time using an event-driven architecture.
+I am a Computer Science MS student at Columbia University studying machine learning and systems programming. In my experience as a Data Scientist at a major cancer hospital, modeling data alone can prove opportunity, but intagrating a model with an application is where the impact happens. A model in a Juptyer Notebook isn't going to serve itself!
 
-I was a Teaching Assistant for Columbia's Artificial Intelligence class taught by [Professor Ansaf Salleb-Aouissi](http://www.cs.columbia.edu/~ansaf/), which teaches graph search algorithms and basics of Machine Learning in Python to advanced undergraduates and masters students.
+At work, I do "full stack" machine learning, from exploratory data analysis to modeling to system integration to drift monitoring. My current project involves integrating a random forest model into the Electronic Medical Record system in near-real-time using an event-driven architecture.
 
-I have a passion for writing software that makes a difference. I believe in the power of well-designed applications to improve the clinical environment, instead of slowing it down. I know that useful machine learning depends on sturdy infrastructure, so I focus my efforts on the union of data engineering and modeling.
+As a graduate student, I was a Teaching Assistant for Columbia's Artificial Intelligence class taught by [Professor Ansaf Salleb-Aouissi](http://www.cs.columbia.edu/~ansaf/), which teaches graph search algorithms and basics of Machine Learning in Python to advanced undergraduates and masters students.
+
+<div class="row">
+<div class="col-xs-12">
+    <img 
+        src="assets/images/joe_outdoors3.png"
+        alt="Joe Redmond image"
+        style="width: 50%; float: right; margin: 0 0 10px 15px;" 
+    />
+</div>
+</div>
