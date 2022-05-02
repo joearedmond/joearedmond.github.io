@@ -4,6 +4,7 @@
 ---
 
 $sidebar-bg-color: #082b05;
+$larger-breakpoint: 80rem !default;
 @import "hydeout";
 
 main {
@@ -11,21 +12,28 @@ main {
     flex-direction: column;
 }
 
+
+
 @media (min-width: $larger-breakpoint) {
     main {
         flex-direction: row;
     }
-    main > article {
+    main > .blurb {
         flex-basis: 65%;
     }
-    main > aside {
+    main > .my-pic {
         flex-basis: 35%;
     }
 }
 
+.my-pic {
+    padding-left: $section-spacing;
+    padding-right: $section-spacing;
+}
+
 img {
-    width:100%;
-    max-width:350px;
+    width: 100%;
+    max-width: 275px;
     margin-left: auto;
     margin-right: auto;
 }
