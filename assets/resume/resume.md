@@ -13,7 +13,7 @@ title: |
 # Education
 
 **Columbia University** **New York, NY**\
-*MS, Computer Science, Machine Learning. GPA 3.5* *Sept 2020 -- July
+*MS, Computer Science, Machine Learning. GPA 3.6* *Sept 2020 -- July
 2022*\
 **Princeton University** **Princeton, NJ**\
 *BSE, Biological Engineering (CBE). Minor in Computer Science (PAC). GPA
