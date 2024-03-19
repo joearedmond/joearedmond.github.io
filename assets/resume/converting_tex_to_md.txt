@@ -1,1 +1,0 @@
-pandoc -s resume.tex -o resume_temp.md
